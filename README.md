@@ -35,18 +35,15 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 ---
 
-### Connect with me:
-
-👨‍💼 **[LinkedIn](https://www.linkedin.com/in/jaiveer-bassi/)**
-
-🚀 **[LeetCode](https://leetcode.com/imjbassi/)**
-
-🌎 **[Github.io](https://imjbassi.github.io/portfolio.github.io/)**
-
-
-
 <table>
   <tr>
+    <td valign="top" width="33%">
+      👨‍💼 **[LinkedIn](https://www.linkedin.com/in/jaiveer-bassi/)**
+      <br>
+      🚀 **[LeetCode](https://leetcode.com/imjbassi/)**
+      <br>
+      🌎 **[Github.io](https://imjbassi.github.io/portfolio.github.io/)**
+    </td>
     <td>
       <a href="https://github.com/imjbassi">
         <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
@@ -59,6 +56,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
     </td>
   </tr>
 </table>
+
 
 
 <hr>
