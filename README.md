@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaiveer Bassi 👋
 
-Bachelor of **Computer Sciences**, General Concentration at University of Silicon Valley | Data Science, Software Programming, Computer Science
+Bachelor of **Computer Sciences**, General Concentration at the University of Silicon Valley | Data Science, Software Programming, Computer Science
 
 Always challenging myself to learn new subjects. Passionate about exploring emerging technologies and staying up-to-date with industry trends. Proficient in collaborating with cross-functional teams to design and implement cutting-edge software solutions. Through rigorous academic projects, I have honed my ability to analyze, design, and optimize software applications.
 
@@ -31,7 +31,7 @@ Always challenging myself to learn new subjects. Passionate about exploring emer
 
 Feel free to visit my **[portfolio](https://imjbassi.github.io/portfolio.github.io/)** to explore some of my recent **projects** and find out more about me.
 
-I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[Website](https://imjbassi.github.io/portfolio.github.io/)**.
+I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[LeetCode](https://leetcode.com/imjbassi/)**.
 
 ---
 
