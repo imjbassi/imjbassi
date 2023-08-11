@@ -8,21 +8,21 @@ Always challenging myself to learn new subjects. Passionate about exploring emer
 
 ## **Languages and Tools I Know**:
 
-<img align="left" alt="HTML5" width="26px" src="https://th.bing.com/th/id/R.6c8f0a0e377cfa70efcd35ff52893b17?rik=iqhl8JD0f9LLpA&pid=ImgRaw&r=0" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" /> 
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" /> 
 
-<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png?size=48" />
 
-<img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" /> 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" /> 
 
-<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" />
 
-<img align="left" alt="Java" width="26px" src="https://th.bing.com/th/id/OIP.kYzQLK2c9kaYsfgUHw9-GgHaHa?pid=ImgDet&rs=1" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" />
 
-<img align="left" alt=".NET Framework" width="26px" src="https://th.bing.com/th/id/R.6418f7bfd00a63bdebd4cd4cfb550c66?rik=s9rVi8srZAiq2g&riu=http%3a%2f%2fwww.santiagomontesinos.com%2fcontent%2fimages%2f2016%2f03%2fnetlogo-1.png&ehk=EzXxCzKW3VcpV4OXaY1ruJWwjkmo7hBNPSY20RnDwgk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" />
+<img align="left" alt=".NET Framework" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png?size=48" />
 
-<img align="left" alt="AWS" width="26px" src="https://th.bing.com/th/id/R.a6c1d39637949a370f8e93aab60a741f?rik=ABtTtCBpS8oVOw&riu=http%3a%2f%2fgisuser.com%2fwp-content%2fuploads%2f2018%2f08%2f2000px-Amazon_Web_Services_Logo.svg_.png&ehk=hQq0rohWcsyiJCNiAOwDAXgnti8Yjm0TPZJLBnIXSHM%3d&risl=&pid=ImgRaw&r=0" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png?size=48 />
 
 <br />
 <br />
