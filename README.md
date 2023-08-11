@@ -63,11 +63,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 <hr>
   <h3 align="center">Featured:</h3>
-  <p align="center">
-    <a href="https://github.com/imjbassi">
-      <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
-    </a>
-  </p>
+
   <p align="center">
     <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI&show_icons=true&theme=dark" alt="Lichess Puzzle Python GUI">
@@ -76,10 +72,5 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
   <p align="center">
     <a href="https://github.com/imjbassi/Data-Analysis-Dashboard">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Data-Analysis-Dashboard&show_icons=true&theme=dark" alt="Data Analysis Dashboard">
-    </a>
-  </p>
-  <p align="center">
-    <a>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
     </a>
   </p>
