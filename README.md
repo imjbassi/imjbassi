@@ -31,18 +31,16 @@ Always challenging myself to learn new subjects. Passionate about exploring emer
 
 Feel free to visit my **[portfolio](https://imjbassi.github.io/portfolio.github.io/)** to explore some of my recent **projects** and find out more about me.
 
-I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[LeetCode](https://leetcode.com/imjbassi/)**.
+I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have any offers or just want to talk or connect, feel free to look at my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[LeetCode](https://leetcode.com/imjbassi/)** for my listed skills.
 
 ---
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      👨‍💼 **[LinkedIn](https://www.linkedin.com/in/jaiveer-bassi/)**
-      <br>
-      🚀 **[LeetCode](https://leetcode.com/imjbassi/)**
-      <br>
-      🌎 **[Github.io](https://imjbassi.github.io/portfolio.github.io/)**
+      <a href="https://www.linkedin.com/in/jaiveer-bassi/">👨‍💼 LinkedIn</a><br>
+      <a href="https://leetcode.com/imjbassi/">🚀 LeetCode</a><br>
+      <a href="https://imjbassi.github.io/portfolio.github.io/">🌎 Github.io</a>
     </td>
     <td>
       <a href="https://github.com/imjbassi">
@@ -56,8 +54,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
     </td>
   </tr>
 </table>
-
-
 
 <hr>
   <h3 align="center">Featured:</h3>
