@@ -29,7 +29,7 @@ Always challenging myself to learn new subjects. Passionate about exploring emer
 
 ---
 
-Feel free to visit my website **[Jaiveer Bassi's Portfolio](https://imjbassi.github.io/portfolio.github.io/)** to explore some of my recent **projects** and find out more about me.
+Feel free to visit my **[portfolio](https://imjbassi.github.io/portfolio.github.io/)** to explore some of my recent **projects** and find out more about me.
 
 I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[Website](https://imjbassi.github.io/portfolio.github.io/)**.
 
