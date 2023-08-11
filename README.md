@@ -46,8 +46,8 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <hr>
 <h3 align="center">Featured:</h3>
 <p align="center">
-<a href="https://github.com/imjbassi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=github-readme-stats" />
+<a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
