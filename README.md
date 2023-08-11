@@ -44,15 +44,24 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 🌎 **[Github.io](https://imjbassi.github.io/portfolio.github.io/)**
 
 <hr>
-<h3 align="center">Featured:</h3>
- <a href="https://github.com/imjbassi/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=imjbassi" alt="imjbassi's GitHub stats">
-      </a><p>
-<a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
-</a>
-<p>
-<a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-</p>
-  
+  <h3 align="center">Featured:</h3>
+  <p align="center">
+    <a href="https://github.com/imjbassi/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=imjbassi" alt="imjbassi's GitHub stats">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" alt="Lichess Puzzle Python GUI">
+    </a>
+  </p>
+  <p align="center">
+    <a>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+    </a>
+  </p>
+   <p align="center">
+    <a href="https://github.com/imjbassi/Data-Analysis-Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Data-Analysis-Dashboard" alt="Data Analysis Dashboard">
+    </a>
+  </p>
