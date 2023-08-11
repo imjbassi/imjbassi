@@ -44,7 +44,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
       vertical-align: middle;
     }
   </style>
-</head>
+
 <body>
   <table>
     <tr>
