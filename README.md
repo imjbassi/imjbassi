@@ -52,7 +52,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
   </p>
   <p align="center">
     <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI"&show_icons=true&theme=dark alt="Lichess Puzzle Python GUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI&show_icons=true&theme=dark" alt="Lichess Puzzle Python GUI">
     </a>
   </p>
   <p align="center">
