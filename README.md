@@ -51,8 +51,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
 </a>
-
-[![imjbassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
 <p>
 <a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
