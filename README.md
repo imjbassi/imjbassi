@@ -54,8 +54,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <p align="center">
 <a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-  <a>
-  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=imjbassi&theme=nord" />
-</a>
+
 </p>
   
