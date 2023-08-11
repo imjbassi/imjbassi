@@ -35,25 +35,36 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 ---
 
-<table>
-  <tr>
-    <td valign="middle" width="33%">
-      <a href="https://www.linkedin.com/in/jaiveer-bassi/" style="display: block; text-align: center;">👨‍💼 LinkedIn</a>
-      <a href="https://leetcode.com/imjbassi/" style="display: block; text-align: center;">🚀 LeetCode</a>
-      <a href="https://imjbassi.github.io/portfolio.github.io/" style="display: block; text-align: center;">🌎 Github.io</a>
-    </td>
-    <td>
-      <a href="https://github.com/imjbassi">
-        <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
-      </a>
-    </td>
-    <td>
-      <a>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
-      </a>
-    </td>
-  </tr>
-</table>
+  <style>
+    table {
+      width: 100%;
+    }
+    td {
+      text-align: center;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <td width="33%">
+        <a href="https://www.linkedin.com/in/jaiveer-bassi/" style="display: block;">👨‍💼 LinkedIn</a>
+        <a href="https://leetcode.com/imjbassi/" style="display: block;">🚀 LeetCode</a>
+        <a href="https://imjbassi.github.io/portfolio.github.io/" style="display: block;">🌎 Github.io</a>
+      </td>
+      <td>
+        <a href="https://github.com/imjbassi">
+          <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
+        </a>
+      </td>
+      <td>
+        <a>
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 <hr>
