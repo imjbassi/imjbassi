@@ -47,7 +47,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
   <h3 align="center">Featured:</h3>
   <p align="center">
     <a href="https://github.com/imjbassi">
-      <img src="https://github-readme-stats.vercel.app/api?username=imjbassi" alt="imjbassi's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
     </a>
   </p>
   <p align="center">
