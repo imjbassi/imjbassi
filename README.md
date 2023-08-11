@@ -43,6 +43,28 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 🌎 **[Github.io](https://imjbassi.github.io/portfolio.github.io/)**
 
+
+
+<body>
+  <div style="display: flex; justify-content: space-between;">
+    <div>
+      <p align="center">
+        <a href="https://github.com/imjbassi">
+          <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p align="center">
+        <a>
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
+        </a>
+      </p>
+    </div>
+  </div>
+</body>
+
+
 <hr>
   <h3 align="center">Featured:</h3>
   <p align="center">
