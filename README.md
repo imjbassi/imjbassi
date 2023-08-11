@@ -45,30 +45,15 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 <hr>
 <h3 align="center">Featured:</h3>
-<p align="center">
+[![imjbassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
+<p>
 <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
 </a>
 
 [![imjbassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
-<p align="center">
+<p>
 <a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </p>
-
-
-  <div style="display: flex; justify-content: space-between;">
-    <div>
-      <a href="https://github.com/imjbassi/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=imjbassi" alt="imjbassi's GitHub stats">
-      </a>
-    </div>
-    <div>
-      <p align="center">
-        <a>
-          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
-        </a>
-      </p>
-    </div>
-  </div>
   
