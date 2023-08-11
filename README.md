@@ -37,10 +37,10 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <a href="https://www.linkedin.com/in/jaiveer-bassi/">👨‍💼 LinkedIn</a><br>
-      <a href="https://leetcode.com/imjbassi/">🚀 LeetCode</a><br>
-      <a href="https://imjbassi.github.io/portfolio.github.io/">🌎 Github.io</a>
+    <td valign="middle" width="33%">
+      <a href="https://www.linkedin.com/in/jaiveer-bassi/" style="display: block; text-align: center;">👨‍💼 LinkedIn</a>
+      <a href="https://leetcode.com/imjbassi/" style="display: block; text-align: center;">🚀 LeetCode</a>
+      <a href="https://imjbassi.github.io/portfolio.github.io/" style="display: block; text-align: center;">🌎 Github.io</a>
     </td>
     <td>
       <a href="https://github.com/imjbassi">
@@ -54,6 +54,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
     </td>
   </tr>
 </table>
+
 
 <hr>
   <h3 align="center">Featured:</h3>
