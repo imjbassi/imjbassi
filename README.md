@@ -39,6 +39,8 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 👨‍💼 **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)**
 
+🚀 **[LeetCode](https://leetcode.com/imjbassi/)**
+
 🌎 **[Website](https://imjbassi.github.io/portfolio.github.io/)**
 
 <hr>
