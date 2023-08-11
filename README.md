@@ -46,19 +46,12 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <hr>
 <h3 align="center">Featured:</h3>
 <p align="center">
-  <a href="https://github.com/abcdeCoder/Pathfinding.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Pathfinding.github.io&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/abcdeCoder/sudokus-solver-visualizer.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=sudokus-solver-visualizer.github.io&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/abcdeCoder/Huffman-Encoding-File.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Huffman-Encoding-File.github.io&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/abcdeCoder/Sharp-Study.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Sharp-Study.github.io&theme=tokyonight" />
-  </a>
-</p>
+<a href="https://github.com/imjbassi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
 <h3 align="center">Github Stats:</h3>
@@ -71,5 +64,3 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 </a>
 </p>
   
-##Snake eating contribution graph
-![snake gif](https://github.com/abcdeCoder/abcdeCoder/blob/output/github-contribution-grid-snake.gif)
