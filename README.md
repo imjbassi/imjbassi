@@ -35,17 +35,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 ---
 
-  <style>
-    table {
-      width: 100%;
-    }
-    td {
-      text-align: center;
-      vertical-align: middle;
-    }
-  </style>
-
-<body>
   <table>
     <tr>
       <td width="33%">
