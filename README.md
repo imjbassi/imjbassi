@@ -45,20 +45,21 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
 
 
-<body>
-  <div style="display: flex; justify-content: space-between;">
-    <div>
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/imjbassi">
         <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=dark" alt="imjbassi's GitHub stats">
       </a>
-    </div>
-    <div>
+    </td>
+    <td>
       <a>
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
       </a>
-    </div>
-  </div>
-</body>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
   <h3 align="center">Featured:</h3>
