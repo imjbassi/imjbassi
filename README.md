@@ -59,7 +59,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abcdeCoder&repo=Sharp-Study.github.io&theme=tokyonight" />
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
 <h3 align="center">Github Stats:</h3>
 <h3 align="center">Github Stats</h3>
 <p align="center">
