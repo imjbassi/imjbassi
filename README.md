@@ -54,6 +54,21 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <p align="center">
 <a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-
 </p>
+
+
+  <div style="display: flex; justify-content: space-between;">
+    <div>
+      <a href="https://github.com/imjbassi/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=imjbassi" alt="imjbassi's GitHub stats">
+      </a>
+    </div>
+    <div>
+      <p align="center">
+        <a>
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+        </a>
+      </p>
+    </div>
+  </div>
   
