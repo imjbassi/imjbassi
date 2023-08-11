@@ -49,18 +49,13 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 <a href="https://github.com/imjbassi/Lichess-Puzzle-Python-GUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=Lichess-Puzzle-Python-GUI" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjbassi)](https://github.com/imjbassi/github-readme-stats)
-<h3 align="center">Github Stats:</h3>
-<h3 align="center">Github Stats</h3>
 <p align="center">
 <a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abcdeCoder&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjbassi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <a>
-  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=abcdeCoder&theme=nord" />
+  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=imjbassi&theme=nord" />
 </a>
 </p>
   
