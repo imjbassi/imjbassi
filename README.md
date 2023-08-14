@@ -65,7 +65,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
 
   </p>
     <p align="center">
-    <a href="  https://github.com/imjbassi/MonkeyType-AutoTyper">
+    <a href="https://github.com/imjbassi/MonkeyType-AutoTyper">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjbassi&repo=MonkeyType-AutoTyper&show_icons=true&theme=dark" alt="MonkeyType AutoTyper">
     </a>
   </p>
