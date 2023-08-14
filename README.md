@@ -33,7 +33,7 @@ Always challenging myself to learn new subjects. Passionate about exploring emer
 
 ---
 
-Feel free to visit my **[portfolio](https://imjbassi.github.io/portfolio.github.io/)** to explore some of my recent **projects** and find out more about me.
+Feel free to visit my **[portfolio](https://imjbassi.github.io/)** to explore some of my recent **projects** and find out more about me.
 
 I'm **open** to full-time opportunities where I can **contribute**, **learn**, and **grow**. If you have any offers or just want to talk or connect, feel free to look at my **[Linkedin](https://www.linkedin.com/in/jaiveer-bassi/)** or my **[LeetCode](https://leetcode.com/imjbassi/)** for my listed skills.
 
@@ -44,7 +44,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn**, a
       <td width="33%">
         <a href="https://www.linkedin.com/in/jaiveer-bassi/" style="display: block;">👨‍💼 LinkedIn</a>
         <a href="https://leetcode.com/imjbassi/" style="display: block;">🚀 LeetCode</a>
-        <a href="https://imjbassi.github.io/portfolio.github.io/" style="display: block;">🌎 Github.io</a>
+        <a href="https://imjbassi.github.io/" style="display: block;">🌎 Github.io</a>
       </td>
       <td>
         <a href="https://github.com/imjbassi">
