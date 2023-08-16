@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaiveer Bassi 👋
 
-Bachelor of **Computer Sciences**, General Concentration at the University of Silicon Valley | Data Science, Software Programming, Computer Science
+Bachelor of **Computer Sciences**, General Concentration at the University of Silicon Valley | Data Science, Software Programming, Computer Science, Front End, and more!
 
 Always challenging myself to learn new subjects. Passionate about exploring emerging technologies and staying up-to-date with industry trends. Proficient in collaborating with cross-functional teams to design and implement cutting-edge software solutions. Through rigorous academic projects, I have honed my ability to analyze, design, and optimize software applications.
 
