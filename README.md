@@ -1,8 +1,7 @@
 # Hi there, I'm Jaiveer Bassi 👋
 
 🎓 **Master's Student in Software Engineering** at Grand Canyon University  
-🎓 **Computer Science Graduate** from the University of Silicon Valley (GPA: 3.8 / 4.0)  
-💻 **Software Developer** at Kaiser Permanente Regional Laboratory  
+🎓 **Computer Science Graduate** from the University of Silicon Valley  
 🌱 Currently focusing on **Full-Stack Development**, **AI/ML Integration**, and **Cloud Computing**  
 🚀 Always exploring new technologies and trends
 
@@ -109,10 +108,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjbassi&show_icons=true&theme=algolia" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjbassi&layout=compact&theme=algolia" alt="Top Languages" height="180"/>
 </p>
 
@@ -124,7 +120,6 @@
   Phoenix, AZ
 - **Bachelor of Science in Computer Science**, University of Silicon Valley *(May 2021 – Aug 2023)*  
   San Jose, CA  
-  **GPA**: 3.8 / 4.0  
   **Relevant Coursework**:  
   - Data Structures and Algorithms (C++)
   - Advanced Probability & Statistics (Python)
@@ -135,12 +130,8 @@
 
 ---
 
-## 🏆 Achievements
-
 - 🎓 **Pursuing Master's in Software Engineering** at Grand Canyon University
-- 🏅 **GPA 3.8/4.0** in Bachelor's Degree
-- ✅ **Certified AWS Solutions Architect**
-- 🥇 **Completed 100+ problems on LeetCode**
+- 🥇 **Completed 150+ problems on LeetCode**
 
 ---
 
