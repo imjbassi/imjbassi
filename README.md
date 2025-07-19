@@ -1,24 +1,24 @@
 # 👋 Hi there, I'm Jaiveer Bassi
 
-🎓 **Master's Student in Software Engineering** at Grand Canyon University  
-🎓 **Computer Science Graduate** from the University of Silicon Valley  
-💻 Previously a **Software Developer** at Kaiser Permanente Regional Laboratory  
-🔬 Conducting research in **Adversarial AI**, **Code LLMs**, and **AI in Healthcare**  
-🌱 Passionate about **Full-Stack Development**, **ML Engineering**, and **Cloud Infrastructure**
+**Master's Student in Software Engineering** at Grand Canyon University  
+**Computer Science Graduate** from the University of Silicon Valley  
+Previously a **Software Developer** at Kaiser Permanente Regional Laboratory  
+Conducting research in **Adversarial AI**, **Code LLMs**, and **AI in Healthcare**  
+Passionate about **Full-Stack Development**, **ML Engineering**, and **Cloud Infrastructure**
 
 ---
 
-## 🔬 Current Research
+## Current Research
 
-- 🧪 **Adversarial AI**: Evaluating the transferability of adversarial attacks (FGSM, PGD, CW) across CNN architectures like ResNet, VGG, and MobileNet.
-- ⚙️ **LLMs for Code**: Benchmarking local code-completion models (StarCoder, CodeT5) on HumanEval with a focus on latency/accuracy trade-offs in real-world environments.
-- 🧠 **Biomedical NLP**: Building PubMed-based summarization tools using BioBERT, citation graph analysis, and UMLS keyword clustering.
+- **Adversarial AI**: Evaluating the transferability of adversarial attacks (FGSM, PGD, CW) across CNN architectures like ResNet, VGG, and MobileNet.
+- **LLMs for Code**: Benchmarking local code-completion models (StarCoder, CodeT5) on HumanEval with a focus on latency/accuracy trade-offs in real-world environments.
+- **Biomedical NLP**: Building PubMed-based summarization tools using BioBERT, citation graph analysis, and UMLS keyword clustering.
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
-### 💻 Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,7 +30,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HL7](https://img.shields.io/badge/HL7-00447C?style=flat-square&logo=hl7&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -47,7 +47,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Developer — *Kaiser Permanente Regional Laboratory*
 *Berkeley, CA | Oct 2023 – Jun 2024*
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - **CareerTuner.org**: GPT-powered resume analyzer with ATS scoring, Supabase backend, and Tailwind PDF export.
 - **MedStract.net**: PubMed search + BioBERT summarizer with Streamlit frontend and biomedical citation graphing.
@@ -70,7 +70,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MS, Computer Software Engineering** — Grand Canyon University *(2024–2025)*  
 - **BS, Computer Science** — University of Silicon Valley *(2021–2023)*  
@@ -78,7 +78,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <a href="https://www.linkedin.com/in/jaiveer-bassi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/imjbassi"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
