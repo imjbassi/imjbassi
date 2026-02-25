@@ -87,8 +87,6 @@ VXLAN · OSPF · Spine–Leaf Topologies · Routing Simulation
 
 * **[CareerTuner.org](https://careertuner.org)**: AI-powered resume analyzer with GPT-based feedback, ATS scoring, skills matching, Supabase backend, Tailwind UI, and PDF export.
 
-* **[Pluro.app](https://pluro.app)**: Web + iOS platform for website design agencies to manage clients, projects, feedback, and payments.
-
 * **[AI Model Packager](https://github.com/imjbassi/ai-model-packager)**: Python library and CLI to package ML models into Docker images for fast inference deployment. Capstone Project for MS in Software Engineering at GCU.
 
 * **[VXLAN-OSPF Network Simulator](https://github.com/imjbassi/vxlan-ospf-simulator)**: Lightweight Python simulator for OSPF routing over spine-leaf fabrics with VXLAN overlays. No root privileges required.
