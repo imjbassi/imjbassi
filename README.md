@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Jaiveer Bassi
 
-**MS in Software Engineering** from Grand Canyon University  
-**BS in Computer Science** from the University of Silicon Valley  
-Currently **AI Response Evaluator** at Handshake AI  
-Previously **Software Developer** at Kaiser Permanente Regional Laboratory  
-Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Healthcare Technology**
+**MS in Software Engineering** from Grand Canyon University
+**BS in Computer Science** from the University of Silicon Valley
+Currently **Robot Operator** at Physical Intelligence
+Previously **AI Response Evaluator** at Handshake AI
+Previously **Software Developer** at Kaiser Permanente Regional Laboratory
+Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Robotics AI**
 
 ---
 
@@ -55,9 +56,14 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Hea
 
 ## Experience
 
+### Robot Operator — *Physical Intelligence*
+*San Francisco, CA | May 2026 – Present*
+* Perform quality control testing on robotic systems by executing structured task protocols, evaluating AI model outputs against performance benchmarks, and identifying failure modes and inconsistencies in robot behavior.
+* Evaluate and validate AI-driven robot performance through systematic review and annotation of task execution videos, ensuring training data meets quality thresholds for foundation model development.
+
 ### AI Response Evaluator — *Handshake AI*
-*Remote | Apr 2026 – Present*
-* Evaluate LLM-generated code and technical responses across AI/ML and software engineering domains (C#/.NET, Python, ML systems), scoring on correctness, instruction following, and writing quality.
+*Remote | Apr 2026 – Jun 2026*
+* Evaluate and rank AI-generated responses across multiple quality dimensions including correctness, reasoning, instruction following, and writing quality. Compare model outputs using structured criteria and assign preference rankings.
 
 ### Software Developer — *Kaiser Permanente Regional Laboratory*
 *Berkeley, CA | Oct 2023 – Jun 2024*
@@ -84,12 +90,12 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Hea
 
 ## Certifications
 
-* **HackerRank Software Engineer Certificate** (2026)
+* **AWS Solutions Architect Associate** (Apr 2026)
+* **HackerRank Software Engineer Certificate** (Mar 2026)
 * **Stanford Fundamentals of AI and Machine Learning in Healthcare** (Jun 2025)
 * **IBM Artificial Intelligence** (Aug 2025)
 * **Cisco Network Support and Security** (Sep 2025)
 * **Google Project Management** (Sep 2024)
-* **Google IT Support** (May 2021)
 
 ---
 
@@ -106,4 +112,4 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Hea
 
 ---
 
-*Open to full-time Software Engineering, GenAI/ML, Healthcare Tech, and Full-Stack roles.*
+*Open to full-time Software Engineering, GenAI/ML, Robotics AI, and Full-Stack roles.*
