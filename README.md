@@ -57,7 +57,7 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 ## Experience
 
 ### Robot Operator — *Physical Intelligence*
-*San Francisco, CA | May 2026 – Present*
+*San Francisco, CA | April 2026 – Present*
 * Perform quality control testing on robotic systems by executing structured task protocols, evaluating AI model outputs against performance benchmarks, and identifying failure modes and inconsistencies in robot behavior.
 * Evaluate and validate AI-driven robot performance through systematic review and annotation of task execution videos, ensuring training data meets quality thresholds for foundation model development.
 
