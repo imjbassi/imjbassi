@@ -2,9 +2,8 @@
 
 **MS in Software Engineering** from Grand Canyon University
 **BS in Computer Science** from the University of Silicon Valley
-Currently **Robot Operator** at Physical Intelligence
-Previously **AI Response Evaluator** at Handshake AI
-Previously **Software Developer** at Kaiser Permanente Regional Laboratory
+Currently **Robot Operator** at Physical Intelligence & **Founder** of House of Seva
+Previously **AI Response Evaluator** at Handshake AI | **Software Developer** at Kaiser Permanente
 Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Robotics AI**
 
 ---
@@ -61,9 +60,14 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 * Perform quality control testing on robotic systems by executing structured task protocols, evaluating AI model outputs against performance benchmarks, and identifying failure modes and inconsistencies in robot behavior.
 * Evaluate and validate AI-driven robot performance through systematic review and annotation of task execution videos, ensuring training data meets quality thresholds for foundation model development.
 
+### Founder & Executive Director — *House of Seva*
+*Vallejo, CA | June 2026 – Present*
+* Founded House of Seva, a California nonprofit public benefit corporation serving the Punjabi and South Asian community of Solano County.
+* Launching Seva Scholars — a college prep, mentorship, and scholarship program for first-generation Punjabi and South Asian youth in Vallejo.
+
 ### AI Response Evaluator — *Handshake AI*
 *Remote | Apr 2026 – Jun 2026*
-* Evaluate and rank AI-generated responses across multiple quality dimensions including correctness, reasoning, instruction following, and writing quality. Compare model outputs using structured criteria and assign preference rankings.
+* Evaluated and ranked AI-generated responses across multiple quality dimensions including correctness, reasoning, instruction following, and writing quality.
 
 ### Software Developer — *Kaiser Permanente Regional Laboratory*
 *Berkeley, CA | Oct 2023 – Jun 2024*
