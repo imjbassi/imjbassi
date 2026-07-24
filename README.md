@@ -59,7 +59,7 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 
 ## Experience
 
-### ai Robot Operator — *Physical Intelligence*
+### AI Robot Operator — *Physical Intelligence*
 *San Francisco, CA | May 2026 – Present*
 * Generate high-quality demonstration data for general-purpose robotics foundation models by teleoperating robotic arms through diverse manipulation, sorting, and assembly tasks with precision and consistency.
 * Perform quality control on AI-driven robot performance by evaluating model outputs against benchmarks, identifying failure modes and edge cases, and annotating task execution data to meet training-quality thresholds for model development.
