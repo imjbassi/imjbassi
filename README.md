@@ -2,7 +2,7 @@
 
 **MS in Software Engineering** from Grand Canyon University
 **BS in Computer Science** from the University of Silicon Valley
-Currently **Robot Operator** at Physical Intelligence & **Founder** of House of Seva
+Currently **AI Robot Operator** at Physical Intelligence & **Founder** of House of Seva
 Previously **AI Response Evaluator** at Handshake AI | **Software Developer** at Kaiser Permanente
 Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Robotics AI**
 
@@ -10,6 +10,7 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 
 ## Research Publications
 
+* **Not All Bad Demonstrations Are Equally Bad: Quantifying How Demonstration Failure Modes Degrade Closed-Loop Policy Performance**: Newest research, quantifying how different types of bad demonstrations degrade imitation learning policy performance in closed-loop evaluation. (Preprint)
 * **Brain Tumor Classification with Pretrained CNNs in PyTorch**: Reproducible pipeline using ResNet-18 transfer learning to classify brain tumors into four categories from 7,000+ MRI images. [DOI](https://doi.org/10.13140/RG.2.2.21638.28484)
 * **Efficient Packaging and Deployment of AI Models for Edge Inference**: Comprehensive pipeline for packaging and deploying AI models for edge inference using quantization, pruning, and lightweight containerization. Achieved up to 4x model size reduction and 50-70% faster inference. [DOI](https://doi.org/10.13140/RG.2.2.23010.59844)
 * **Transferability of Adversarial Attacks Across ML Models**: Evaluated FGSM, PGD, and Carlini-Wagner attacks across ResNet-18, VGG16, and MobileNetV2 on CIFAR-10, demonstrating 99%+ cross-architecture attack success rates. [DOI](https://doi.org/10.13140/RG.2.2.16410.76489)
@@ -50,6 +51,11 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+### Robotics & Embedded
+![RTDE](https://img.shields.io/badge/UR_RTDE-00A0DC?style=flat-square)
+![SocketCAN](https://img.shields.io/badge/SocketCAN-4B4B4B?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -63,6 +69,7 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 *San Francisco, CA | May 2026 – Present*
 * Generate high-quality demonstration data for general-purpose robotics foundation models by teleoperating robotic arms through diverse manipulation, sorting, and assembly tasks with precision and consistency.
 * Perform quality control on AI-driven robot performance by evaluating model outputs against benchmarks, identifying failure modes and edge cases, and annotating task execution data to meet training-quality thresholds for model development.
+* Triage and diagnose recurring hardware-software faults across a distributed robotics stack, tracing failures through service logs to isolate root cause and documenting findings for engineering teams.
 
 ### Founder & Executive Director — *House of Seva*
 *Vallejo, CA | June 2026 – Present*
@@ -83,6 +90,12 @@ Passionate about **Full-Stack Development**, **GenAI/ML Engineering**, and **Rob
 ---
 
 ## Projects
+
+* **CAN Bus Diagnostics Rig** — *Simulating Real Robot Failures on a Breadboard*: Built a 3-node CAN bus on custom hardware (Arduino/MCP2515 nodes, USB-CAN interface) and induced real bus-off, arbitration, and connector faults, diagnosing each via SocketCAN error-state analysis with a reproducible fault catalog. Code, wiring notes, and full fault catalog on GitHub.
+
+* **GELLO-Style Leader-Follower Arm** — *$30 Teleoperation Rig*: Rebuilt the core mechanism behind GELLO-style robot teleoperation for under $30, substituting potentiometer-based leader encoding for the servo-as-encoder approach used in production rigs, preserving direct joint-space control with no inverse kinematics. Code, wiring notes, and build guide on GitHub.
+
+* **UR5e Fault Injection & Diagnostics Harness**: Built a control and fault-injection harness against UR5e's production RTDE interface using UR's official simulator, reproducing a real segmentation fault from a production traceback and characterizing which connection failures are catchable in application code versus requiring external process supervision. Logged synchronized joint telemetry at fixed sample rate with automated gap detection to recover diagnostic evidence from failures that crash the process before any exception is raised.
 
 * **[Habitua](https://github.com/imjbassi/Habitua)** — iOS Tinnitus Therapy App: Built from scratch with zero third-party dependencies. Real-time audio synthesis engine with custom biquad IIR filters, pink/brown noise DSP, and a personalized notch filter tuned to the user's matched tinnitus pitch. Guided habituation exercises grounded in Tinnitus Retraining Therapy principles with Swift Charts tracking distress and awareness over time.
 
