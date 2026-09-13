@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaiveer Bassi
 
-**AI Robot Operator** at Physical Intelligence · **Founder & Executive Director** of House of Seva  
+**AI Robot Operator** at Physical Intelligence · **Founder & Executive Director** of House of Seva<br>
 **MS in Software Engineering** · **BS in Computer Science**
 
 I build systems across **robotics**, **machine learning**, **AI reliability**, and **full-stack software**. My recent work focuses on robot-fault diagnostics, demonstration-data quality, reproducible ML evaluation, and scientific benchmark auditing.
@@ -143,4 +143,3 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 ---
 
 *Open to full-time opportunities in robotics software, AI/ML engineering, full-stack development, and AI reliability.*
-
