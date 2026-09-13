@@ -117,7 +117,6 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Certifications
 
-- **AWS Certified Solutions Architect – Associate** *(April 2026)*
 - **HackerRank Software Engineer Certificate** *(March 2026)*
 - **IBM Artificial Intelligence** *(August 2025)*
 - **Cisco Network Support and Security** *(September 2025)*
