@@ -118,11 +118,12 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 ## Certifications
 
 - **[Accelerated Computing in Modern CUDA C++](https://learn.nvidia.com/certificates?id=eaNdEd3OSJ-b3kGRexaGkg)** *(September 2026)*
-- **HackerRank Software Engineer Certificate** *(March 2026)*
-- **IBM Artificial Intelligence** *(August 2025)*
-- **Cisco Network Support and Security** *(September 2025)*
-- **Stanford Fundamentals of AI and Machine Learning in Healthcare** *(June 2025)*
-- **Google Project Management** *(September 2024)*
+- **[HackerRank Software Engineer Certificate](https://www.hackerrank.com/certificates/fa189046801d)** *(March 2026)*
+- **[Cisco Network Support and Security](https://www.credly.com/badges/9d0c624f-c2ea-4dde-9edf-f7ab096b3003/public_url)** *(September 2025)*
+- **[IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/9499939c-56c2-4760-9ccd-b8399fd97d31/public_url)** *(August 2025)*
+- **[Stanford Fundamentals of AI and Machine Learning in Healthcare](https://imjbassi.github.io/credentials/stanford-ai-healthcare-transcript.pdf)** *(June 2025)*
+- **[Google Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/DQ3EEK89IWI6)** *(September 2024)*
+- **[Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6KPKTL6896VT)** *(May 2021)*
 
 ---
 
