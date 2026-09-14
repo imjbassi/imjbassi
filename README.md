@@ -9,7 +9,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Research & Publications
 
-- **[Sampling-Budget Audit of Dimensionality Reduction for Conformational Landscapes](https://github.com/imjbassi/sampling-audit)** — Tests whether metastable states reported by PCA, TICA, and VAEs are properties of a molecular free-energy landscape or artifacts of the available sampling budget. Includes controlled synthetic landscapes, complementary model-selection criteria, and alanine-dipeptide validation using two independent 100 ns trajectories. *Manuscript in preparation.*
+- **[Sampling-Budget Audit of Dimensionality Reduction for Conformational Landscapes](https://github.com/imjbassi/state-count-sampling-bias)** — Tests whether metastable states reported by PCA, TICA, and VAEs are properties of a molecular free-energy landscape or artifacts of the available sampling budget. Includes controlled synthetic landscapes, complementary model-selection criteria, and alanine-dipeptide validation using two independent 100 ns trajectories. *Manuscript in preparation.*
 
 - **[Brain Tumor MRI Benchmark Audit](https://github.com/imjbassi/Brain-Tumor-MRI-Classification)** — Re-audited a widely used four-class MRI benchmark and found complete patient overlap among traceable tumor test images plus substantial duplicate contamination. Released patient identifiers and a reproducible patient-disjoint five-fold split. **[Archived release and DOI](https://doi.org/10.5281/zenodo.22728198)**
 
