@@ -117,7 +117,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Certifications
 
-- **[NVIDIA Getting Started with Accelerated Computing in Modern CUDA C++](https://learn.nvidia.com/certificates?id=eaNdEd3OSJ-b3kGRexaGkg)** *(September 2026)* — Certificate of Competency · Credential ID `w4vIgwUBS3iK81YM1IzEYw`
+- **[Accelerated Computing in Modern CUDA C++](https://learn.nvidia.com/certificates?id=eaNdEd3OSJ-b3kGRexaGkg)** *(September 2026)*
 - **HackerRank Software Engineer Certificate** *(March 2026)*
 - **IBM Artificial Intelligence** *(August 2025)*
 - **Cisco Network Support and Security** *(September 2025)*
