@@ -99,11 +99,11 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** *(in progress)* — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
 
+- **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage. [Paper (PDF)](https://github.com/imjbassi/demo-quality-robustness/blob/master/paper.pdf).
+
 - **[Kubernetes Fault-Tolerant Robot Telemetry Pipeline](https://github.com/imjbassi/k8s-fault-tolerant-pipeline)** — Multi-stage Redis Streams and PostgreSQL pipeline with idempotent processing, consumer recovery, observability, and a chaos harness for pod and network failures.
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Simulator-backed robot control, synchronized telemetry logging, and reproducible characterization of clean exceptions, hangs, and native crashes at the RTDE layer.
-
-- **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage.
 
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
 
