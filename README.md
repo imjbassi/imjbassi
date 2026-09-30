@@ -101,13 +101,11 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage. [Paper (PDF)](https://github.com/imjbassi/demo-quality-robustness/blob/master/paper.pdf).
 
-- **[Kubernetes Fault-Tolerant Robot Telemetry Pipeline](https://github.com/imjbassi/k8s-fault-tolerant-pipeline)** — Multi-stage Redis Streams and PostgreSQL pipeline with idempotent processing, consumer recovery, observability, and a chaos harness for pod and network failures.
+- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Simulator-backed robot control, synchronized telemetry logging, and reproducible characterization of clean exceptions, hangs, and native crashes at the RTDE layer.
 
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
-
-- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
 
 - **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Labelbox-based robot-grasp annotation workflow with bounding boxes, keypoints, failure-mode labels, and automated COCO JSON export.
 
