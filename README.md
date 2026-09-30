@@ -103,6 +103,8 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Drives a simulated UR5e over RTDE, the same interface used by production UR5e cells, logs synchronized joint telemetry, and deliberately induces connection faults to characterize whether the client fails with a clean exception, a hang, or a native crash.
 
+- **[openpi Language-Steerability Demo](https://github.com/imjbassi/openpi-steerability-demo)** — Runs the public π0.5 LIBERO checkpoint in a single simulated scene with different language instructions and scores success with the simulator's own goal checks. Trained and paraphrased prompts succeed 10/10, while novel object recombinations drop as low as 1/10.
+
 - **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
 
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
