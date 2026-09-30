@@ -107,7 +107,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
 
-- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Labelbox-based robot-grasp annotation workflow with bounding boxes, keypoints, failure-mode labels, and automated COCO JSON export.
+- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
 
 - **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
 
