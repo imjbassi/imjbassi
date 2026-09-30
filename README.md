@@ -115,7 +115,9 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Adversarial Attack Visualizer](https://github.com/imjbassi/adversarial-visualizer)** — Interactive GUI for running FGSM, PGD, DeepFool, and Carlini & Wagner attacks against a pretrained ImageNet ResNet-18, with live perturbation panels, top-5 predictions, per-iteration confidence, and attack-surface sweeps.
 
-- **[MedStract](https://medstract.net)** · **[Castline Studio](https://castline.studio)** — Production full-stack systems spanning biomedical literature search and e-commerce order automation.
+- **[MedStract](https://medstract.net)** — Flask web app that retrieves peer-reviewed abstracts from PubMed and turns them into summaries calibrated to four reading levels, from the general public to the domain expert, with question answering over the results, publication-trend charts, and citation exports (APA, MLA, Chicago, Vancouver, BibTeX, RIS).
+
+- **[Castline Studio](https://castline.studio)** — Production e-commerce order system with client-side STL analysis, Etsy and shipping integrations, and automated email.
 
 ---
 
