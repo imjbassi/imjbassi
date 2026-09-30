@@ -115,6 +115,8 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired system combining a C++ bitboard engine, PyTorch self-play training, and a PyGame visualization interface.
 
+- **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
+
 - **[CareerTuner](https://careertuner.org)** · **[MedStract](https://medstract.net)** · **[Castline Studio](https://castline.studio)** — Production full-stack systems spanning AI resume analysis, biomedical literature search, and e-commerce order automation.
 
 ---
