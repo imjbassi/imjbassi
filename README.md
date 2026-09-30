@@ -21,7 +21,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Not All Bad Demonstrations Are Equally Bad: Quantifying How Demonstration Failure Modes Degrade Closed-Loop Policy Performance](https://github.com/imjbassi/demo-quality-robustness)**: Controlled study of 660 policy fits across five failure modes, two policy families, ten seeds, and transition-matched controls. Under review at the CoRL 2026 Learning from Corrections and Interventions workshop ([OpenReview](https://openreview.net/forum?id=DBSdaBnibW)).
 
-- **[Smoothness Ranks Skill, Not Success: An Audit of Published Trajectory-Smoothness Curation Metrics Under Episode-Length Controls](https://github.com/imjbassi/smoothness-audit)**: Base preprint plus three workshop submissions under review: [CoRL WEBP](https://openreview.net/forum?id=8HHUxS9GcK), [NeurIPS RoboPAD](https://openreview.net/forum?id=wj9Kj3hsJs), and [CoRL Oops, I Erred](https://openreview.net/forum?id=7C6WROjCKQ).
+- **[Smoothness Ranks Skill, Not Success: An Audit of Published Trajectory-Smoothness Curation Metrics Under Episode-Length Controls](https://github.com/imjbassi/smoothness-audit)**: Base preprint plus three venue-specific workshop versions. **Accepted as a poster at the [NeurIPS 2026 RoboPAD workshop](https://openreview.net/forum?id=wj9Kj3hsJs)** as *Curation Metrics Are a Post-Training Decision: Auditing Trajectory Smoothness for Adapting Robot Foundation Models*; the [CoRL WEBP](https://openreview.net/forum?id=8HHUxS9GcK) and [CoRL Oops, I Erred](https://openreview.net/forum?id=7C6WROjCKQ) versions remain under review.
 ---
 
 ## Technical Skills
