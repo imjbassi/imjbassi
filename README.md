@@ -103,17 +103,15 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Drives a simulated UR5e over RTDE, the same interface used by production UR5e cells, logs synchronized joint telemetry, and deliberately induces connection faults to characterize whether the client fails with a clean exception, a hang, or a native crash.
 
-- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
+- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
 
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
 
-- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
+- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
 
 - **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
 
 - **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
-
-- **[Adversarial Attack Visualizer](https://github.com/imjbassi/adversarial-visualizer)** — Interactive GUI for running FGSM, PGD, DeepFool, and Carlini & Wagner attacks against a pretrained ImageNet ResNet-18, with live perturbation panels, top-5 predictions, per-iteration confidence, and attack-surface sweeps.
 
 - **[MedStract](https://medstract.net)** — Flask web app that retrieves peer-reviewed abstracts from PubMed and turns them into summaries calibrated to four reading levels, from the general public to the domain expert, with question answering over the results, publication-trend charts, and citation exports (APA, MLA, Chicago, Vancouver, BibTeX, RIS).
 
