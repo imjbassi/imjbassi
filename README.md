@@ -103,19 +103,21 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Simulator-backed robot control, synchronized telemetry logging, and reproducible characterization of clean exceptions, hangs, and native crashes at the RTDE layer.
 
+- **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage.
+
 - **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
 
 - **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
-
-- **[Fleet Triage](https://github.com/imjbassi/fleet-triage)** — Robot-fleet log analyzer with fault classification, recurrence detection, anomaly detection, rule-based root-cause analysis, and a Streamlit dashboard.
 
 - **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Labelbox-based robot-grasp annotation workflow with bounding boxes, keypoints, failure-mode labels, and automated COCO JSON export.
 
 - **[AI Model Packager](https://github.com/imjbassi/ai-model-packager)** — Python library and CLI for packaging machine-learning models into Docker images for efficient inference deployment.
 
-- **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired system combining a C++ bitboard engine, PyTorch self-play training, and a PyGame visualization interface.
+- **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
 
 - **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
+
+- **[Adversarial Attack Visualizer](https://github.com/imjbassi/adversarial-visualizer)** — Interactive GUI for running FGSM, PGD, DeepFool, and Carlini & Wagner attacks against a pretrained ImageNet ResNet-18, with live perturbation panels, top-5 predictions, per-iteration confidence, and attack-surface sweeps.
 
 - **[CareerTuner](https://careertuner.org)** · **[MedStract](https://medstract.net)** · **[Castline Studio](https://castline.studio)** — Production full-stack systems spanning AI resume analysis, biomedical literature search, and e-commerce order automation.
 
