@@ -109,8 +109,6 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Labelbox-based robot-grasp annotation workflow with bounding boxes, keypoints, failure-mode labels, and automated COCO JSON export.
 
-- **[AI Model Packager](https://github.com/imjbassi/ai-model-packager)** — Python library and CLI for packaging machine-learning models into Docker images for efficient inference deployment.
-
 - **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
 
 - **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
