@@ -64,6 +64,9 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Experience
 
+### Undergraduate Research Fellow — *Stanford University*
+*Stanford, CA · September 2026–Present*
+
 ### AI Robot Operator — *Physical Intelligence*
 *San Francisco, CA · May 2026–Present*
 
@@ -83,7 +86,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - Evaluated LLM-generated code and technical responses across AI/ML and software-engineering domains, scoring correctness, instruction following, and writing quality.
 
-### Software Developer — *Kaiser Permanente Regional Laboratory*
+### Software Developer — *Kaiser Permanente*
 *Berkeley, CA · October 2023–June 2024*
 
 - Developed a React, Express, REST, and SQL application for uploading, processing, and reviewing clinical-laboratory instrument data.
@@ -94,15 +97,15 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Selected Projects
 
+- **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** *(in progress)* — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
+
 - **[Kubernetes Fault-Tolerant Robot Telemetry Pipeline](https://github.com/imjbassi/k8s-fault-tolerant-pipeline)** — Multi-stage Redis Streams and PostgreSQL pipeline with idempotent processing, consumer recovery, observability, and a chaos harness for pod and network failures.
 
 - **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Simulator-backed robot control, synchronized telemetry logging, and reproducible characterization of clean exceptions, hangs, and native crashes at the RTDE layer.
 
-- **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults.
+- **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
 
-- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics.
-
-- **[Habitua](https://github.com/imjbassi/Habitua)** — Native SwiftUI tinnitus-habituation app with real-time DSP, generated sound enrichment, personalized notch filtering, guided exercises, and progress tracking.
+- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
 
 - **[Fleet Triage](https://github.com/imjbassi/fleet-triage)** — Robot-fleet log analyzer with fault classification, recurrence detection, anomaly detection, rule-based root-cause analysis, and a Streamlit dashboard.
 
