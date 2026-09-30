@@ -64,7 +64,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Selected Projects
 
-- **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** *(in progress)* — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
+- **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
 
 - **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage. [Paper (PDF)](https://github.com/imjbassi/demo-quality-robustness/blob/master/paper.pdf).
 
