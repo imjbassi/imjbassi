@@ -62,6 +62,32 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ---
 
+## Selected Projects
+
+- **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** *(in progress)* — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
+
+- **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage. [Paper (PDF)](https://github.com/imjbassi/demo-quality-robustness/blob/master/paper.pdf).
+
+- **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Drives a simulated UR5e over RTDE, the same interface used by production UR5e cells, logs synchronized joint telemetry, and deliberately induces connection faults to characterize whether the client fails with a clean exception, a hang, or a native crash.
+
+- **[openpi Language-Steerability Demo](https://github.com/imjbassi/openpi-steerability-demo)** — Runs the public π0.5 LIBERO checkpoint in a single simulated scene with different language instructions and scores success with the simulator's own goal checks. Trained and paraphrased prompts succeed 10/10, while novel object recombinations drop as low as 1/10.
+
+- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
+
+- **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
+
+- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
+
+- **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
+
+- **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
+
+- **[MedStract](https://medstract.net)** — Flask web app that retrieves peer-reviewed abstracts from PubMed and turns them into summaries calibrated to four reading levels, from the general public to the domain expert, with question answering over the results, publication-trend charts, and citation exports (APA, MLA, Chicago, Vancouver, BibTeX, RIS).
+
+- **[Castline Studio](https://castline.studio)** — Production e-commerce order system with client-side STL analysis, Etsy and shipping integrations, and automated email.
+
+---
+
 ## Experience
 
 ### Undergraduate Research Fellow — *Stanford University*
@@ -92,32 +118,6 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 - Developed a React, Express, REST, and SQL application for uploading, processing, and reviewing clinical-laboratory instrument data.
 - Built validated data pipelines that consolidated more than 50 instrument fields into an automated upload workflow.
 - Investigated data-recording defects, documented failure patterns, and improved pipeline reliability.
-
----
-
-## Selected Projects
-
-- **[π0 on a Budget](https://github.com/imjbassi/pi0-on-a-budget)** *(in progress)* — Fine-tuning π0-FAST on a consumer RTX 4070 using synchronized demonstrations from a custom four-degree-of-freedom teleoperation arm, followed by open-loop and closed-loop evaluation.
-
-- **[Demonstration Quality Robustness](https://github.com/imjbassi/demo-quality-robustness)** — Controlled simulation study of 660 policy fits measuring how specific demonstration failure modes degrade closed-loop policy performance, and how poorly open-loop evaluation tracks that damage. [Paper (PDF)](https://github.com/imjbassi/demo-quality-robustness/blob/master/paper.pdf).
-
-- **[UR5e RTDE Fault-Injection Harness](https://github.com/imjbassi/ur5e-rtde-harness)** — Drives a simulated UR5e over RTDE, the same interface used by production UR5e cells, logs synchronized joint telemetry, and deliberately induces connection faults to characterize whether the client fails with a clean exception, a hang, or a native crash.
-
-- **[openpi Language-Steerability Demo](https://github.com/imjbassi/openpi-steerability-demo)** — Runs the public π0.5 LIBERO checkpoint in a single simulated scene with different language instructions and scores success with the simulator's own goal checks. Trained and paraphrased prompts succeed 10/10, while novel object recombinations drop as low as 1/10.
-
-- **[Grasp Annotation Dataset Pipeline](https://github.com/imjbassi/grasp-annotation-dataset)** — Data-ops pipeline that samples public robot-arm video into frames, provisions a Labelbox project with a grasp-focused ontology, and exports completed labels as COCO JSON. Each frame can carry a `grasp_event` bounding box, an `object_contact` keypoint, and a `failure_mode` label (drop, miss, collision, timeout, or success).
-
-- **[CAN Bus Fault Injector](https://github.com/imjbassi/can-bus-fault-injector)** — Three-node Arduino/MCP2515 CAN bus with SocketCAN monitoring and a documented catalog of physical and protocol-level faults. [Article on Medium](https://imjbassi.medium.com/simulating-real-robot-failures-a3c62fbfc62d).
-
-- **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
-
-- **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
-
-- **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
-
-- **[MedStract](https://medstract.net)** — Flask web app that retrieves peer-reviewed abstracts from PubMed and turns them into summaries calibrated to four reading levels, from the general public to the domain expert, with question answering over the results, publication-trend charts, and citation exports (APA, MLA, Chicago, Vancouver, BibTeX, RIS).
-
-- **[Castline Studio](https://castline.studio)** — Production e-commerce order system with client-side STL analysis, Etsy and shipping integrations, and automated email.
 
 ---
 
