@@ -115,7 +115,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[Adversarial Attack Visualizer](https://github.com/imjbassi/adversarial-visualizer)** — Interactive GUI for running FGSM, PGD, DeepFool, and Carlini & Wagner attacks against a pretrained ImageNet ResNet-18, with live perturbation panels, top-5 predictions, per-iteration confidence, and attack-surface sweeps.
 
-- **[CareerTuner](https://careertuner.org)** · **[MedStract](https://medstract.net)** · **[Castline Studio](https://castline.studio)** — Production full-stack systems spanning AI resume analysis, biomedical literature search, and e-commerce order automation.
+- **[MedStract](https://medstract.net)** · **[Castline Studio](https://castline.studio)** — Production full-stack systems spanning biomedical literature search and e-commerce order automation.
 
 ---
 
