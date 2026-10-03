@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaiveer Bassi
 
-**AI Robot Operator** at Physical Intelligence · **Founder & Executive Director** of House of Seva<br>
+**AI Robot Operator** at Physical Intelligence<br>
 **MS in Software Engineering** · **BS in Computer Science**
 
 I build systems across **robotics**, **machine learning**, **AI reliability**, and **full-stack software**. My recent work focuses on robot-fault diagnostics, demonstration-data quality, reproducible ML evaluation, and scientific benchmark auditing.
@@ -99,13 +99,6 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 - Generate high-quality demonstrations for general-purpose robotics foundation models by teleoperating robotic arms through manipulation, sorting, and assembly tasks.
 - Evaluate model behavior against quality benchmarks, identify edge cases and failure modes, and annotate task data for model development.
 - Diagnose recurring hardware–software faults across distributed robotics systems by tracing failures through service logs and documenting root causes for engineering teams.
-
-### Founder & Executive Director — *House of Seva*
-*Vallejo, CA · June 2026–Present*
-
-- Founded a California nonprofit public benefit corporation serving the Punjabi and South Asian community of Solano County.
-- Built and deployed **[houseofseva.org](https://houseofseva.org)** with a serverless contact API, authenticated email, an embedded donation flow, structured SEO data, PWA support, and automated deployment.
-- Developing Seva Scholars, a college-preparation, mentorship, and scholarship program for first-generation Punjabi and South Asian students in Vallejo.
 
 ### LLM Response Evaluator — *Handshake AI*
 *Remote · April 2026–June 2026*
