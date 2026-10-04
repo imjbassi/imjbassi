@@ -80,6 +80,8 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[GELLO-Style Leader–Follower Arm](https://github.com/imjbassi/gello-lite)** — Approximately $30 potentiometer-based teleoperation rig using direct joint-space control without inverse kinematics. [Article on Medium](https://imjbassi.medium.com/a-30-teleoperation-rig-rebuilding-the-core-idea-behind-robot-demonstration-data-69df3d1431f3).
 
+- **[Scribbot](https://github.com/imjbassi/scribbot)** — A low-cost, mostly 3D-printed desktop robot arm that draws on a 3 × 3 inch sticky note: an MG90S base on a 2:1 printed gear, MG996R shoulder and elbow, an MG90S wrist, and a gravity pen holder, driven by an Arduino Nano and PCA9685 servo driver, with OpenSCAD sources, printable STLs, and stage-by-stage build guides.
+
 - **[Chess-RL Engine](https://github.com/imjbassi/chess-reinforcement-learning)** — AlphaZero-inspired engine that learns only through self-play: a C++ bitboard move generator exposed through pybind11, a PyTorch policy/value network on an 18-channel board encoding, and a PyGame interface showing move probabilities in real time.
 
 - **[Neural Net Mapper](https://github.com/imjbassi/neural-net-mapper)** — Trains an MLP on a synthetic shapes dataset and renders an animated map of its inner workings: neuron activations, weight signs and magnitudes, dropout, predictions, and live loss/accuracy curves.
