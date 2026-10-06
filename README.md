@@ -130,6 +130,12 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ---
 
+## Service
+
+- **Reviewer**, CoRL 2026 Workshop on Learning from Corrections and Interventions (LfC) *(2026)*
+
+---
+
 ## Education
 
 - **MS, Software Engineering** — Grand Canyon University *(May 2024–October 2025)*
