@@ -94,6 +94,9 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Experience
 
+### Robotics Software Engineer — *Stealth Startup (Y Combinator)*
+*October 2026–Present*
+
 ### Undergraduate Research Fellow — *Stanford University*
 *Stanford, CA · September 2026–Present*
 
