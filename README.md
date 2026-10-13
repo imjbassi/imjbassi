@@ -102,8 +102,10 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 - Brought up the console on additional robot stations by diagnosing hardware and configuration faults.
 - Designed a six-DOF Dynamixel GELLO-style leader arm in CAD and delivered printable parts, firmware, and an assembly guide.
 
-### Undergraduate Research Fellow — *Stanford University*
+### Stanford SSG Fellow — *Stanford University*
 *Stanford, CA · September 2026–Present*
+
+- Conduct mentor-guided independent research by developing a core curiosity question, evaluating primary scientific literature, and formulating testable hypotheses.
 
 ### AI Robot Operator — *Physical Intelligence*
 *San Francisco, CA · May 2026–Present*
@@ -112,7 +114,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 - Evaluate model behavior against quality benchmarks, identify edge cases and failure modes, and annotate task data for model development.
 - Diagnose recurring hardware–software faults across distributed robotics systems by tracing failures through service logs and documenting root causes for engineering teams.
 
-### LLM Response Evaluator — *Handshake AI*
+### Contracted AI Response Evaluator — *Handshake AI*
 *Remote · April 2026–June 2026*
 
 - Evaluated LLM-generated code and technical responses across AI/ML and software-engineering domains, scoring correctness, instruction following, and writing quality.
