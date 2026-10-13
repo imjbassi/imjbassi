@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaiveer Bassi
 
-**Software Engineer** at a Y Combinator-backed stealth robotics startup · **AI Robot Operator** at Physical Intelligence<br>
+**Robotics Software Engineer** at a YC stealth startup · **AI Robot Operator** at Physical Intelligence<br>
 **MS in Software Engineering** · **BS in Computer Science**
 
 I build systems across **robotics**, **machine learning**, **AI reliability**, and **full-stack software**. My recent work focuses on robot-fault diagnostics, demonstration-data quality, reproducible ML evaluation, and scientific benchmark auditing.
@@ -94,7 +94,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Experience
 
-### Software Engineer (Part-Time) — *Stealth Robotics Startup (Y Combinator)*
+### Robotics Software Engineer — *YC Stealth Startup*
 *Menlo Park, CA · October 2026–Present*
 
 - Built the browser-based operator console used to run teleoperation and policy evaluations on bimanual robot stations, including live camera feeds, episode control, scoring, and authentication.
