@@ -94,8 +94,13 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 ## Experience
 
-### Robotics Software Engineer — *Stealth Startup (Y Combinator)*
-*October 2026–Present*
+### Software Engineer (Part-Time) — *Stealth Robotics Startup (Y Combinator)*
+*Menlo Park, CA · October 2026–Present*
+
+- Built the browser-based operator console used to run teleoperation and policy evaluations on bimanual robot stations, including live camera feeds, episode control, scoring, and authentication.
+- Reduced camera feed latency from 200 ms to as low as 20 ms and resolved a socket failure in the station control daemon.
+- Brought up the console on additional robot stations by diagnosing hardware and configuration faults.
+- Designed a six-DOF Dynamixel GELLO-style leader arm in CAD and delivered printable parts, firmware, and an assembly guide.
 
 ### Undergraduate Research Fellow — *Stanford University*
 *Stanford, CA · September 2026–Present*
