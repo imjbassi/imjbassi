@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaiveer Bassi
 
-**Founding Engineer** at a YC stealth startup · **AI Robot Operator II** at Physical Intelligence<br>
+**Founding Engineer** at a YC stealth startup<br>
 **MS in Software Engineering** · **BS in Computer Science**
 
 I build systems across **robotics**, **machine learning**, **AI reliability**, and **full-stack software**. My recent work focuses on robot-fault diagnostics, demonstration-data quality, reproducible ML evaluation, and scientific benchmark auditing.
