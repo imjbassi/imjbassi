@@ -95,7 +95,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 ## Experience
 
 ### Founding Engineer — *YC Stealth Startup*
-*Menlo Park, CA · October 2026–Present*
+*October 2026–Present*
 
 - Built the browser-based operator console used to run teleoperation and policy evaluations on bimanual robot stations, including live camera feeds, episode control, scoring, and authentication.
 - Reduced camera feed latency from 200 ms to as low as 20 ms and resolved a socket failure in the station control daemon.
