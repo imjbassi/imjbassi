@@ -19,9 +19,9 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 
 - **[When Does INT8 Actually Accelerate Host-CPU Inference? A Reproducible Audit of MobileNetV2 Conversion and Packaging](https://github.com/imjbassi/efficient-ai-edge-deployment)**: Shows that INT8 latency depends on backend delegation and quantization granularity, alongside paired accuracy and packaging controls. Released as [v1.2.0 on Zenodo](https://doi.org/10.5281/zenodo.22758817), not yet submitted for peer review.
 
-- **[Conditioning and Directionality in Adversarial Transfer on CIFAR-10](https://github.com/imjbassi/transferability-of-adversarial-attacks)**: Denominator-aware full-test study across three architectures and three training seeds. Under review at Transactions on Machine Learning Research ([OpenReview](https://openreview.net/forum?id=0wQCiGLqZx)), with an [archived reproducibility release](https://doi.org/10.5281/zenodo.22737839).
+- **[Conditioning and Directionality in Adversarial Transfer on CIFAR-10](https://github.com/imjbassi/transferability-of-adversarial-attacks)**: Denominator-aware full-test study across three architectures and three training seeds. Available as a preprint, with an [archived reproducibility release](https://doi.org/10.5281/zenodo.22737839).
 
-- **[Complete Patient-Level Leakage Among Traceable Images in a Widely Used Brain Tumor MRI Benchmark](https://github.com/imjbassi/brain-tumor-mri-classification)**: Finds complete patient overlap among traceable tumor test images plus substantial duplicate contamination, and releases patient-disjoint folds. Available as a preprint and [Zenodo artifact](https://doi.org/10.5281/zenodo.22755070), not yet submitted to a journal.
+- **[Complete Patient-Level Leakage Among Traceable Images in a Widely Used Brain Tumor MRI Benchmark](https://github.com/imjbassi/brain-tumor-mri-classification)**: Finds complete patient overlap among traceable tumor test images plus substantial duplicate contamination, and releases patient-disjoint folds. Under review at Scientific Reports (in peer review since October 2026), with a [Zenodo artifact](https://doi.org/10.5281/zenodo.22755070).
 
 - **[Sampling Budget Biases Apparent Metastable-State Counts in Molecular Simulation](https://github.com/imjbassi/state-count-sampling-bias)**: Controlled synthetic landscapes and two independent alanine-dipeptide trajectories show how sampling budget can inflate apparent state counts. Under review at JCTC (submitted September 15, 2026), with a [ChemRxiv preprint](https://chemrxiv.org/doc/3ca81cab-c111-4416-99f8-0b2654e38da7) and a [versioned Zenodo dataset](https://doi.org/10.5281/zenodo.22754433).
 ---
@@ -102,7 +102,7 @@ I build systems across **robotics**, **machine learning**, **AI reliability**, a
 - Brought up the console on additional robot stations by diagnosing hardware and configuration faults.
 - Designed a six-DOF Dynamixel GELLO-style leader arm in CAD and delivered printable parts, firmware, and an assembly guide.
 
-### Stanford SSG Fellow — *Stanford University*
+### Stanford Undergraduate Research Fellow — *Stanford University*
 *Stanford, CA · September 2026–Present*
 
 - Conduct mentor-guided independent research by developing a core curiosity question, evaluating primary scientific literature, and formulating testable hypotheses.
